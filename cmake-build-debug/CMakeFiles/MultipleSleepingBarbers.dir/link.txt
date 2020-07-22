@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/MultipleSleepingBarbers.dir/main.cpp.o CMakeFiles/MultipleSleepingBarbers.dir/Shop_org.cpp.o  -o MultipleSleepingBarbers.exe -Wl,--out-implib,libMultipleSleepingBarbers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
